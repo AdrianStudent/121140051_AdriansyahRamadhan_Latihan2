@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- colors.xml -->
+<resources>
+    <!-- Warna tombol -->
+    <color name="primary_button_text_color">#FFC107</color> <!-- Yellow -->
+    <color name="success_button_text_color">#4CAF50</color> <!-- Green -->
+    <color name="warning_button_text_color">#F44336</color> <!-- Red -->
+
+    <!-- Warna font -->
+    <color name="primary_button_background">#FFFFFF</color> <!-- White -->
+    <color name="success_button_background">#FFFFFF</color> <!-- White -->
+    <color name="warning_button_background">#FFFFFF</color> <!-- White -->
+</resources>
+

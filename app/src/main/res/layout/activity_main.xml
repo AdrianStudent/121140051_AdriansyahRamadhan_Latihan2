@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- activity_main.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnPrimary"
+        style="@style/ButtonPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Primary Button"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnSuccess"
+        style="@style/ButtonSuccess"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Success Button"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnWarning"
+        style="@style/ButtonWarning"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Warning Button"
+        android:layout_marginBottom="8dp"/>
+</LinearLayout>
